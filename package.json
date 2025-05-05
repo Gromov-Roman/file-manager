@@ -1,0 +1,20 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "File Manager cli app",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "file-manager",
+    "cli",
+    "node.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gromov-Roman/file-manager.git"
+  },
+  "private": true
+}
